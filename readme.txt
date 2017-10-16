@@ -7,4 +7,4 @@ Git Has Add Staged.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Push To Origin Dev.
-Test Multi person cooperation in WorkSpace2.
+Test Multi person cooperation in WorkSpace and WorkSpace2.
